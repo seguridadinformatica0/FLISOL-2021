@@ -10,7 +10,7 @@
 
 ## Requerimientos
 
-## Intalación
+## Instalación
 
 ## Implementación
 
