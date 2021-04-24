@@ -156,12 +156,7 @@ Requerimientos mínimos de hardware
 
 | Tickets creados por mes | Usuarios de consola | CMDB:CIs | Servidores | CPU | Memoria | Disco para MySQL |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ------------ |
-
-
-
-
-
-| Header | Title |
+| <200 | <20 | 50k | Un servidor todo en uno | 20vCPU | 4Gb | 10Gb |
 | Paragraph | Text |
 
 
