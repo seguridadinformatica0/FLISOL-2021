@@ -154,10 +154,10 @@ Es una aplicación web Open Source para el día a día de las operaciones de un 
 
 Requerimientos mínimos de hardware
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| NECESITAS | RECOMENDACIÓN |
+| ----------- | ----------- |----------- |
+| Tickets creados por mes | Usuarios de consola |Cmdb:CIs|
+| <200| <20 |<50K|
 
 
 
