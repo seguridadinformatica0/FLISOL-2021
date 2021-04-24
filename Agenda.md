@@ -157,9 +157,8 @@ Requerimientos mínimos de hardware
 | Tickets creados por mes | Usuarios de consola | CMDB:CIs | Servidores | CPU | Memoria | Disco para MySQL |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ------------ |
 | <200 | <20 | 50k | Un servidor todo en uno | 20vCPU | 4Gb | 10Gb |
-| Paragraph | Text |
-
-
+| <5000 | <50 | <200k | Dos servidores:Web + MySQL | 4vCPU | 8Gb | 20Gb |
+| <5000 | >50 | >200k | Dos servidores:Web + MySQL | 8vCPU | 16Gb | 50Gb |
 
 El tamaño de pantalla mínimo para usar iTop es de 1024 * 768 píxeles, pero cuanto mayor sea la resolución, mejor.
 
