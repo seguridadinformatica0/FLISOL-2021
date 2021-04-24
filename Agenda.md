@@ -154,7 +154,16 @@ Es una aplicación web Open Source para el día a día de las operaciones de un 
 
 Requerimientos mínimos de hardware
 
-| Tickets creados por mes | Usuarios de consola | 
+| Tickets creados por mes | Usuarios de consola | CMDB:CIs | Servidores | CPU | Memoria | Disco para MySQL |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ------------ |
+
+
+
+
+
+| Header | Title |
+| Paragraph | Text |
+
 
 
 El tamaño de pantalla mínimo para usar iTop es de 1024 * 768 píxeles, pero cuanto mayor sea la resolución, mejor.
