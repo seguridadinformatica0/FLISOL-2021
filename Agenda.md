@@ -154,8 +154,8 @@ Es una aplicación web Open Source para el día a día de las operaciones de un 
 
 Requerimientos mínimos de hardware
 
-| NECESITAS | RECOMENDACIÓN |
-| ----------- | ----------- |----------- |
+| NECESITAS | RECOMENDACIÓN |OTROS|
+| ----------- | ----------- |----------------|
 | Tickets creados por mes | Usuarios de consola |Cmdb:CIs|
 | <200| <20 |<50K|
 
