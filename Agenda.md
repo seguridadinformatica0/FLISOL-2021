@@ -60,7 +60,6 @@ El marco de seguridad de NIST establece en su área de de identificación establ
 
 Es una aplicación web Open Source para el día a día de las operaciones de un entorno TI que tiene la finalidad de gestionar la complejidad de las infraestructuras compartidas. Fue creado tomando en cuenta el estandar ITIL para las buenas prácticas con el objeto de mejorar la gestión y provisión de servicios TI. Es flexible para adaptarse a los procesos y necesidad que la organizaciones y a la vez gestionar múltiples clientes, contratos y SLA.
 
-
 ¿Por qué seleccionar iTop?
 
     • Es de uso gratuito
@@ -155,9 +154,11 @@ Es una aplicación web Open Source para el día a día de las operaciones de un 
 
 Requerimientos mínimos de hardware
 
-
-
-
+|                   NECESITAS                          |                        RECOMENDACIÓN                     |
+|-----------------------------------------------------------------------------------------------------------------|
+|  TICKETS CREADOS POR MES|USUARIOS DE CONSOLA|CMDB:CIs|       SERVIDORES           |CPU  |MEMORIA|DISCO PARA MSQL|
+|-----------------------------------------------------------------------------------------------------------------|
+|         <200            |        <20        |  <50k  | Servidor todo en uno       |2vCPU|  4Gb  |      10Gb     | 
 
 
 
@@ -193,9 +194,9 @@ Web Browser
 Se recomienda la última versión de Chrome (Firefox es seguro también)
 Desde 2.7.0, IE9 ya no es compatible.
 
-### 6. Instalación (script)
+### 7. Instalación (script)
 
-### 7. Implementación
+### 8. Implementación
 
 Creando nuevos objetos en iTop
 
@@ -331,12 +332,12 @@ Esto conduciría a la creación de 4 SLT, uno para cada fila de la tabla. Estos 
 
 Finalmente, los SLA se pueden asociar a los Contratos del Cliente para definir las métricas aplicables al contrato. 
 
-### 12. Extensiones
+### 9. Extensiones
 
-### 13. Contratos
+### 10. Contratos
 
-### 14. iHub (Descarga e instalación de alguna de las extensiones)
+### 11. iHub (Descarga e instalación de alguna de las extensiones)
 
-### 15. Contacto
+### 12. Contacto
 
-### 16. Gracias
+### 13. Gracias
