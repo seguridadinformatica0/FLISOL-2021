@@ -180,7 +180,7 @@ iTop está basado en MySQL y PHP
 | iTop | PHP | MySQL | MariaDB | Limitaciones | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | 2.7.x | 5.6-7.4 | 5.6-5.7 | 10.1-10.4 | MySQL 8 no se recomienda para bases de datos grandes,Compatible con PHP 7.4,IE9 ya no es compatible |
-| 3.0.x | 7.1.3-7.4 | 5.7 | 10.3 | 4vCPU | MariaDB es más recomendado que  MySQL, IE11 ya no es compatible, PHP 8 ya no es compatible |
+| 3.0.x | 7.1.3-7.4 | 5.7 | 10.3 | 4vCPU | MariaDB es más recomendado que MySQL,IE11 ya no es compatible,PHP 8 ya no es compatible |
 
 Leyenda:
 
