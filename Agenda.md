@@ -154,11 +154,11 @@ Es una aplicación web Open Source para el día a día de las operaciones de un 
 
 Requerimientos mínimos de hardware
 
-|                   NECESITAS                          |                        RECOMENDACIÓN                     |
-|-----------------------------------------------------------------------------------------------------------------|
-|  TICKETS CREADOS POR MES|USUARIOS DE CONSOLA|CMDB:CIs|       SERVIDORES           |CPU  |MEMORIA|DISCO PARA MSQL|
-|-----------------------------------------------------------------------------------------------------------------|
-|         <200            |        <20        |  <50k  | Servidor todo en uno       |2vCPU|  4Gb  |      10Gb     | 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 
 
 
